@@ -1,38 +1,18 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You will be working in pairs of threes and making your own Pixel Art pictures.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![image of a pixel art alien](images/alien5.png)
 
 --- collapse ---
 ---
 title: What you will need
 ---
-### Hardware
 
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ Coloured pens or pencils
++ Square paper or print outs of this project
 
 --- /collapse ---
 
@@ -41,8 +21,8 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ How computers create and store images
++ How to use x,y coordinates
 
 --- /collapse ---
 

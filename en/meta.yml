@@ -1,11 +1,17 @@
-title: pixel-art-unplugged
+title: Pixel Art unplugged
 hero_image: images/banner.png
-description: pixel-art-unplugged description
+description: An unplugged activity creating pixel art
 version: 4
 listed: false
 copyedit: false
 last_tested: "2019-02-05"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Pixels
+  - title: "Challenge: Decode a bigger picture"
+    challenge: true
+  - title: Create your own pixel art
+  - title: Encode your picture
+  - title: "Challenge: Create a multi-colour picture"
+    challenge: true
   - title: What next?
