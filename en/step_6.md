@@ -14,12 +14,12 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
 
 --- /hints ---
 
-![empty 10x10 grid](images/empty-grid.png).
+![empty 10x10 grid](images/empty-grid.png)
 
 <table style="border: 1px solid black;" frame="void" rules="all">
   <tr>
-    <th style="width: 50px">&nbsp;</th>
-    <th style="width: 50px">&nbsp;</th> 
+    <th style="width: 50px">X</th>
+    <th style="width: 50px">Y</th> 
     <th style="width: 50px">&nbsp;</th> 
     <th style="width: 50px">&nbsp;</th> 
     <th style="width: 50px">&nbsp;</th> 
