@@ -8,8 +8,8 @@ Write down the X and Y coordinates of the pixels which are coloured.
 
 <table style="border: 1px solid black;" frame="void" rules="all">
   <tr>
-    <th>X</th>
-    <th>Y</th> 
+    <th style="width: 25px">X</th>
+    <th style="width: 25px">Y</th> 
   </tr>
   <tr>
     <td>&nbsp;</td>
