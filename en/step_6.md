@@ -16,7 +16,7 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
 
 ![empty 10x10 grid](images/empty-grid.png).
 
-<table style="width:100%; border: 1px solid black;">
+<table style="border: 1px solid black;" frame="void" rules="all">
   <tr>
     <th>&nbsp;</th>
     <th>&nbsp;</th> 
