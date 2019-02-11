@@ -18,12 +18,12 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
 
 <table style="border: 1px solid black;" frame="void" rules="all">
   <tr>
-    <th>&nbsp;</th>
-    <th>&nbsp;</th> 
-    <th>&nbsp;</th> 
-    <th>&nbsp;</th> 
-    <th>&nbsp;</th> 
-    <th>&nbsp;</th> 
+    <th style="width: 50px">&nbsp;</th>
+    <th style="width: 50px">&nbsp;</th> 
+    <th style="width: 50px">&nbsp;</th> 
+    <th style="width: 50px">&nbsp;</th> 
+    <th style="width: 50px">&nbsp;</th> 
+    <th style="width: 50px">&nbsp;</th> 
   </tr>
   <tr>
     <td>&nbsp;</td>
