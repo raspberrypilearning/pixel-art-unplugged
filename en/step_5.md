@@ -6,8 +6,6 @@ Now its time to turn your pixel art into numbers a computer (or a friend) can un
 
 Write down the X and Y coordinates of the pixels which are coloured.
 
-![a 2 column table with the headings x y](images/x-y-table.png)
-
 <table style="border: 1px solid black;" frame="void" rules="all">
   <tr>
     <th>X</th>
