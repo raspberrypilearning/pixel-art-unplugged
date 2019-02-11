@@ -23,19 +23,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <th style="width: 50px">&nbsp;</th> 
     <th style="width: 50px">&nbsp;</th> 
     <th style="width: 50px">&nbsp;</th> 
-    <th style="width: 50px">&nbsp;</th> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -47,19 +37,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -71,19 +51,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -95,19 +65,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -119,19 +79,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -143,19 +93,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -167,19 +107,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -191,19 +121,9 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-    <td>&nbsp;</td> 
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
@@ -215,11 +135,65 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
     <td>&nbsp;</td> 
   </tr>
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
     <td>&nbsp;</td> 
