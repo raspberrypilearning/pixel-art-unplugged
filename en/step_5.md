@@ -6,32 +6,118 @@ Now its time to turn your pixel art into numbers a computer (or a friend) can un
 
 Write down the X and Y coordinates of the pixels which are coloured.
 
-| X   | Y   |
-|-----|-----|
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|-----|-----|
+![a 2 column table with the headings x y](images/x-y-table.png)
+
+<table style="width:100%; border: 1px solid black;">
+  <tr>
+    <th>X</th>
+    <th>Y</th> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td> 
+  </tr>
+</table>
 
 --- /task ---
 

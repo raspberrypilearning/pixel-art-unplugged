@@ -1,5 +1,7 @@
 ## Pixels
 
+QUESTION - feels too "wordy" should I reduce the number of words?
+
 Computer screens are divided up into a grid of very small dots called pixels (picture elements). In a black and white picture, each pixel is either black or white. In a colour picture, each pixel is a single colour. These images show how pixels make images.
 
 ![pixel art version of a planet](images/planet.png)
@@ -14,9 +16,10 @@ Computers code images by reading the coordinates of coloured pixels. For compute
 
 --- task ---
 
+QUESTION - is a heart a good shape?
+
 Decode this image by colouring in the right coordinates. You can use whichever colour you like. What image do you see? 
 
 ![a blank grid with the coordinates to decode](images/decode-grid-1.png)
 
 --- /task ---
-
