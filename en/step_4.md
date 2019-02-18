@@ -2,7 +2,7 @@
 
 --- task ---
 
-Create your own pixel art image in the grid below. Colouring pixels in to create a image. 
+Create your own pixel art image in the grid below. Colouring pixels in to create an image. 
 
 It can be anything you want.
 

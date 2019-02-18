@@ -2,9 +2,9 @@
 
 Computer screens are divided up into a grid of very small dots called pixels (picture elements), by zooming in on pictures you can see the pixels.
 
-![an image of a pencil and a close up which shows the pixels](images/zoom-in.jpg)
-
 DESIGN - a suitable picture and a zoomed in section showing the pixels.
+
+![an image of a pencil and a close up which shows the pixels](images/zoom-in.jpg)
 
 These images show how you can use pixels to make art.
 
@@ -12,7 +12,7 @@ These images show how you can use pixels to make art.
 
 ![pixel art version of a water melon](images/water-melon.png)
 
-Computers represent everything, even pictures, with numbers. This means that when you design a picture for the computer, you need to make turn the pixels into numbers. 
+Computers represent everything, even pictures, with numbers. This means that when you design a picture for the computer, you need to turn the pixels into numbers. 
 
 In this picture you can see how each square on the grid corresponds to a coordinate for each row. 
 

@@ -1,6 +1,6 @@
 ## Encode your picture
 
-Now its time to turn your pixel art into numbers a computer (or a friend) can understand and see if they can turn it back into an image.
+Now its time to turn your pixel art into numbers a computer (or a friend) can understand and then see if they can turn it back into an image.
 
 --- task ---
 

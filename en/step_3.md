@@ -1,6 +1,6 @@
 ## Challenge: Decode a bigger picture
 
-Can you decode this bigger image? 
+Can you decode this image? 
 
 ![a blank grid with the coordinates to decode](images/decode-grid-2.jpg)
 
