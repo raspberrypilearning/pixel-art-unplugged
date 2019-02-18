@@ -14,7 +14,11 @@ When you encoded a mono-tone image you only needed **2** columns (X & Y), for mu
 
 --- /hints ---
 
+DESIGN - Empty 10x10 grid with 0-10 labels for X, Y across the top and left.
+
 ![empty 10x10 grid](images/empty-grid.png)
+
+DESIGN - a table 5 x 25 with the column headings X, Y and then blank for the rest
 
 <table style="border: 1px solid black;" frame="void" rules="all">
   <tr>

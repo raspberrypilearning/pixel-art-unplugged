@@ -6,6 +6,8 @@ Now its time to turn your pixel art into numbers a computer (or a friend) can un
 
 Write down the X and Y coordinates of the pixels which are coloured.
 
+DESIGN - a table 2 x 25 with the column headings X, Y
+
 <table style="border: 1px solid black;" frame="void" rules="all">
   <tr>
     <th style="width: 50px">X</th>
@@ -123,6 +125,8 @@ Write down the X and Y coordinates of the pixels which are coloured.
 
 Swap your co-ordinates with a friend and ask them to decode your image.
 
-![an empty grid by 10x10 pixels](images/empty-grid.png)
+DESIGN - Empty 10x10 grid with 0-10 labels for X, Y across the top and left.
+
+![empty 10x10 grid](images/empty-grid.png)
 
 --- /task ---
