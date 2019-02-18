@@ -2,9 +2,7 @@
 
 You will be working in pairs of threes and making your own Pixel Art pictures.
 
-![image of a pixel art alien](images/alien5.png)
-
-DESIGN - pictures of what you will make but on proper bit of paper, coloured with pencils
+DESIGN - picture of what you will make but on proper bit of paper, coloured with pencils
 
 ![hand drawn pixel art picture on graph paper](images/pixel-art-showcase.jpg)
 
