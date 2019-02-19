@@ -4,7 +4,7 @@ At the moment your pixel art pictures are mono-tone i.e. they only use 1 colour.
 
 Can you create and then encode a pixel art image which has more than 1 colour.
 
-DESIGN - Can this hint section be too 1 side? It would be nice if we could find away of obscuring it (upside down maybe?), the code club books uses the special glasses.
+DESIGN - Can this hint section be in a box? It would be nice if we could find away of obscuring it (upside down maybe?), the code club books uses the special glasses, if not dont worry.
 
 --- hints ---
 
