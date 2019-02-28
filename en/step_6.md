@@ -1,8 +1,8 @@
-## Challenge: Create a multi-colour picture
+## Challenge: create a multicolour picture
 
-At the moment your pixel art pictures are mono-tone i.e. they only use 1 colour.
+At the moment ,your pixel art pictures are monochrome, meaning they only use one colour.
 
-Can you create and then encode a pixel art image which has more than 1 colour.
+Can you create and then encode a pixel art image which has more than one colour?
 
 DESIGN - Can this hint section be in a box? It would be nice if we could find away of obscuring it (upside down maybe?), the code club books uses the special glasses, if not dont worry.
 
@@ -10,7 +10,7 @@ DESIGN - Can this hint section be in a box? It would be nice if we could find aw
 
 --- hint ---
 
-When you encoded a mono-tone image you only needed **2** columns (X & Y), for multi-colour pictures you will need at least 1 more column to store the colour.
+To encode a monochrome image, you only need **two** columns (for x and y). For multicolour pictures, you need at least one more column to store the colour.
 
 DESIGN - Like this image but a 2x2 grid only.
 

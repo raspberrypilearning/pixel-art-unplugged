@@ -1,6 +1,6 @@
 ## Introduction
 
-You will be working in pairs of threes and making your own Pixel Art pictures.
+You will be working in pairs of threes and making your own pixel art pictures.
 
 DESIGN - picture of what you will make but on proper bit of paper, coloured with pencils
 
@@ -12,7 +12,7 @@ title: What you will need
 ---
 
 + Coloured pens or pencils
-+ Print outs of this project or squared paper.
++ Printouts of this project, or squared paper
 
 DESIGN - image of the stuff you need
 
@@ -26,7 +26,7 @@ title: What you will learn
 ---
 
 + How computers create and store images
-+ How to use x,y coordinates
++ How to use (x, y) coordinates
 
 --- /collapse ---
 

@@ -2,9 +2,9 @@
 
 --- task ---
 
-Create your own pixel art image in the grid below. Colouring pixels in to create an image. 
+Create your own pixel art image in the grid below by colouring in pixels. 
 
-It can be anything you want.
+The image can show anything you want.
 
 DESIGN - Empty 10x10 grid with 0-10 labels for X, Y across the top and left.
 

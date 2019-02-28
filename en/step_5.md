@@ -2,11 +2,11 @@
 
 DESIGN - this should be a seperate page to the pixel art image in the previous step so the page can be swapped.
 
-Now its time to turn your pixel art into numbers a computer (or a friend) can understand and then see if they can turn it back into an image.
+Now it's time to turn your pixel art into numbers a computer (or a friend) can understand and try to decode!
 
 --- task ---
 
-Write down the X and Y coordinates of the pixels which are coloured.
+Write down the (x, y) coordinates of the pixels which you coloured in.
 
 DESIGN - a table 2 x 25 with the column headings X, Y
 
@@ -125,7 +125,7 @@ DESIGN - a table 2 x 25 with the column headings X, Y
 
 --- task ---
 
-Swap your co-ordinates with a friend and ask them to decode your image.
+Swap your coordinates with a friend so they can try to decode your image and you can decode theirs.
 
 DESIGN - Empty 10x10 grid with 0-10 labels for X, Y across the top and left.
 
