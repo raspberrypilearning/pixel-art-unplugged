@@ -2,9 +2,7 @@
 
 Computer screens, and the pictures they show, are divided up into grids of very small dots called pixels (picture elements). When you zoom in on a picture, you can see its pixels.
 
-DESIGN - a suitable picture and a zoomed in section showing the pixels.
-
-![an image of a pencil and a close up which shows the pixels](images/zoom-in.jpg)
+![an image of a pencil and a close up which shows the pixels](images/zoom-in.png)
 
 These images show how you can use pixels to make art.
 
@@ -23,8 +21,6 @@ The grid numbering starts at (0, 0) in the top left-hand corner of the grid. Thi
 --- task ---
 
 Decode this image by colouring in the right coordinates. You can use whichever colour you like. What does the image show? 
-
-DESIGN - Same as this, but including 0-10 labels for X and Y (same as the above image.)
 
 ![a blank grid with the coordinates to decode](images/decode-grid-1.png)
 

@@ -2,21 +2,19 @@
 
 You will be working in pairs of threes and making your own pixel art pictures.
 
-DESIGN - picture of what you will make but on proper bit of paper, coloured with pencils
+![hand drawn pixel art picture on graph paper](images/pixel-art-showcase.png)
 
-![hand drawn pixel art picture on graph paper](images/pixel-art-showcase.jpg)
+This project is also available as a PDF to download and print [rpf.io/cc-unplugged-pixelart]([path](http://rpf.io/cc-unplugged-pixelart)).
 
 --- collapse ---
 ---
 title: What you will need
 ---
 
+![square paper and colour pencils](images/what-you-need.png)
+
 + Coloured pens or pencils
 + Printouts of this project, or squared paper
-
-DESIGN - image of the stuff you need
-
-![square paper and colour pencils](images/what-you-need.jpg)
 
 --- /collapse ---
 
@@ -35,8 +33,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/pixel-art-unplugged/print){:target="_blank"}.
+You can [download digital and print layout PDFs for this project here](http://rpf.io/p/en/pixel-art-unplugged-get){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/pixel-art-unplugged-go).
+You can [download the solutions for this project here](http://rpf.io/p/en/pixel-art-unplugged-get){:target="_blank"}.
 
 --- /collapse ---
