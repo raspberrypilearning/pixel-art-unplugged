@@ -4,7 +4,7 @@ You will be working in pairs of threes and making your own pixel art pictures.
 
 ![hand drawn pixel art picture on graph paper](images/pixel-art-showcase.png)
 
-This project is also available as a PDF to download and print [rpf.io/cc-unplugged-pixelart]([path](http://rpf.io/cc-unplugged-pixelart)).
+This project is also available as a PDF to download and print [rpf.io/cc-unplugged-pixelart](http://rpf.io/cc-unplugged-pixelart).
 
 --- collapse ---
 ---

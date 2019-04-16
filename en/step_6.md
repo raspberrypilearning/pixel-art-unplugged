@@ -4,8 +4,6 @@ At the moment ,your pixel art pictures are monochrome, meaning they only use one
 
 Can you create and then encode a pixel art image which has more than one colour?
 
-DESIGN - Can this hint section be in a box? It would be nice if we could find away of obscuring it (upside down maybe?), the code club books uses the special glasses, if not dont worry.
-
 --- hints ---
 
 --- hint ---
