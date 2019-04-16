@@ -20,4 +20,4 @@ To encode a monochrome image, you only need **two** columns (for x and y). For m
 
 ![empty 10x10 grid](images/empty-grid.png)
 
-![5 x 25 empty table](images/5x25-table.png)
+![3 x 25 empty table](images/3x25-table.png)
