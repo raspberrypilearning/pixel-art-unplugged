@@ -1,6 +1,6 @@
 ## Introduction
 
-You will be working in pairs of threes and making your own pixel art pictures.
+You will be working in pairs or threes and making your own pixel art pictures.
 
 ![hand drawn pixel art picture on graph paper](images/pixel-art-showcase.png)
 
