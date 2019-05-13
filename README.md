@@ -1,6 +1,6 @@
 # pixel-art-unplugged
 
-![pixel-art-unplugged](banner.png)
+![pixel-art-unplugged](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/pixel-art-unplugged](https://projects.raspberrypi.org/en/projects/pixel-art-unplugged)
 
