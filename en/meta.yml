@@ -3,18 +3,18 @@ title: Create pixel art
 hero_image: images/banner.png
 description: An unplugged activity for creating pixel art
 version: 4.1
-listed: false
+listed: true
 copyedit: true
 last_tested: '2019-04-16'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Pixels
 - title: 'Challenge: decode a bigger picture'
   challenge: true
 - title: Create your own pixel art
-  completion: internal
+  completion: engaged
 - title: Encode your picture
+  completion: internal
 - title: 'Challenge: create a multicolour picture'
   challenge: true
 - title: What next?
