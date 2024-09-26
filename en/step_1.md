@@ -33,7 +33,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download digital and print layout PDFs for this project here](http://rpf.io/p/en/pixel-art-unplugged-get){:target="_blank"}.
+You can [download digital and print layout PDFs for this project here](http://rpf.io/p/en/pixel-art-unplugged-go){:target="_blank"}.
 
 You can [download the solutions for this project here](http://rpf.io/p/en/pixel-art-unplugged-get){:target="_blank"}.
 
