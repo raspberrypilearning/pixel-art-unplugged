@@ -19,6 +19,5 @@ steps:
   - internal
 - title: 'Challenge: create a multicolour picture'
   challenge: true
-- title: What next?
   completion:
   - external
