@@ -5,7 +5,6 @@ At the moment ,your pixel art pictures are monochrome, meaning they only use one
 Can you create and then encode a pixel art image which has more than one colour?
 
 --- hints ---
-
 --- hint ---
 
 To encode a monochrome image, you only need **two** columns (for x and y). For multicolour pictures, you need at least one more column to store the colour.
@@ -13,8 +12,8 @@ To encode a monochrome image, you only need **two** columns (for x and y). For m
 ![a 2x2 grid with a red and green pixel](images/multi-colour-grid.png)
 
 --- /hint ---
-
 --- /hints ---
+
 
 ![empty 10x10 grid](images/empty-grid.png)
 
